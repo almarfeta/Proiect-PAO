@@ -1,7 +1,9 @@
+import view.View;
+
 public class ProiectPAO {
 
     public static void main(String[] args) {
-        Meniu meniu = new Meniu();
-        meniu.start();
+        View view = new View();
+        view.run();
     }
 }
