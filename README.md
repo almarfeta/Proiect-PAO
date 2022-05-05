@@ -20,7 +20,7 @@ Etapa 1
 Etapa 2
 -------------
 * am modificat structura proiectului, organizand clasele in: domain, persistance, service si view
-* am incarcat date din fisere CSV
+* am incarcat date din fisiere CSV
 * am implementat o clasa singleton pentru citire si afisare in fisier
 * am adaugat un fisier audit care inregistreaza comenzile facute in aplicatie
 * am adaugat metode pentru realizarea actiunilor Update si Delete
