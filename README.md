@@ -24,3 +24,9 @@ Etapa 2
 * am implementat o clasa singleton pentru citire si afisare in fisier
 * am adaugat un fisier audit care inregistreaza comenzile facute in aplicatie
 * am adaugat metode pentru realizarea actiunilor Update si Delete
+
+Etapa 3
+-------------
+* am modificat GenericRepository-ul pentru a realiza conexiunea cu baza de date
+* am modificat toate celelalte Repository-uri pentr a realiza interogarile SQL
+* am modificat Service-urile pentru a corespunde cu noile Repo-uri
